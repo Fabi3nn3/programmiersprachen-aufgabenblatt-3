@@ -136,6 +136,45 @@ aufgabe1/fast:
 	$(MAKE) -f source/CMakeFiles/aufgabe1.dir/build.make source/CMakeFiles/aufgabe1.dir/build
 .PHONY : aufgabe1/fast
 
+#=============================================================================
+# Target rules for targets named aufgabe2bis4
+
+# Build rule for target.
+aufgabe2bis4: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 aufgabe2bis4
+.PHONY : aufgabe2bis4
+
+# fast build rule for target.
+aufgabe2bis4/fast:
+	$(MAKE) -f source/CMakeFiles/aufgabe2bis4.dir/build.make source/CMakeFiles/aufgabe2bis4.dir/build
+.PHONY : aufgabe2bis4/fast
+
+#=============================================================================
+# Target rules for targets named aufgabe5
+
+# Build rule for target.
+aufgabe5: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 aufgabe5
+.PHONY : aufgabe5
+
+# fast build rule for target.
+aufgabe5/fast:
+	$(MAKE) -f source/CMakeFiles/aufgabe5.dir/build.make source/CMakeFiles/aufgabe5.dir/build
+.PHONY : aufgabe5/fast
+
+#=============================================================================
+# Target rules for targets named aufgabe7
+
+# Build rule for target.
+aufgabe7: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 aufgabe7
+.PHONY : aufgabe7
+
+# fast build rule for target.
+aufgabe7/fast:
+	$(MAKE) -f source/CMakeFiles/aufgabe7.dir/build.make source/CMakeFiles/aufgabe7.dir/build
+.PHONY : aufgabe7/fast
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -146,6 +185,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... glfw"
 	@echo "... aufgabe1"
+	@echo "... aufgabe2bis4"
+	@echo "... aufgabe5"
+	@echo "... aufgabe7"
 .PHONY : help
 
 

@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++14 -Wall   CMakeFiles/aufgabe7.dir/aufgabe7.cpp.o CMakeFiles/aufgabe7.dir/circle.cpp.o  -o ../aufgabe7 -rdynamic -lm 

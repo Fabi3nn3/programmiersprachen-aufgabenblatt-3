@@ -5,6 +5,9 @@
 /home/fabi/programmiersprachen-aufgabenblatt-3/build/external/glfw-3.0.3/src/CMakeFiles/rebuild_cache.dir
 /home/fabi/programmiersprachen-aufgabenblatt-3/build/external/glfw-3.0.3/src/CMakeFiles/edit_cache.dir
 /home/fabi/programmiersprachen-aufgabenblatt-3/build/external/glfw-3.0.3/src/CMakeFiles/glfw.dir
-/home/fabi/programmiersprachen-aufgabenblatt-3/build/source/CMakeFiles/rebuild_cache.dir
 /home/fabi/programmiersprachen-aufgabenblatt-3/build/source/CMakeFiles/edit_cache.dir
+/home/fabi/programmiersprachen-aufgabenblatt-3/build/source/CMakeFiles/rebuild_cache.dir
 /home/fabi/programmiersprachen-aufgabenblatt-3/build/source/CMakeFiles/aufgabe1.dir
+/home/fabi/programmiersprachen-aufgabenblatt-3/build/source/CMakeFiles/aufgabe2bis4.dir
+/home/fabi/programmiersprachen-aufgabenblatt-3/build/source/CMakeFiles/aufgabe5.dir
+/home/fabi/programmiersprachen-aufgabenblatt-3/build/source/CMakeFiles/aufgabe7.dir
